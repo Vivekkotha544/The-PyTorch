@@ -8,16 +8,6 @@ Welcome to my PyTorch learning journey! In this repository, I'll be documenting 
 
 PyTorch has gained immense popularity in the machine learning and deep learning communities due to its flexibility, dynamic computation graph, and easy-to-use interface. Its Pythonic nature makes it intuitive for both beginners and experienced practitioners to implement various machine learning models and algorithms efficiently.
 
-## What Will I Cover?
-
-Throughout this learning journey, I aim to cover a wide range of topics, including:
-
-- Basics of PyTorch: Tensors, operations, and autograd
-- Building neural networks: Sequential and custom architectures
-- Training models: Optimizers, loss functions, and evaluation techniques
-- Advanced topics: Transfer learning, deployment, and distributed training
-- Real-world projects: Implementing end-to-end machine learning pipelines
-
 ## How Will I Learn?
 
 I'll be using a combination of resources, including official PyTorch documentation, online tutorials, books, and practical coding exercises. I believe in hands-on learning, so expect to see plenty of code examples, experiments, and project implementations in this repository.
